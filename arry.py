@@ -15,4 +15,3 @@ for i in lista:
         else:
             print(f"{i} no es un numero primo")
     print(i)
-
